@@ -40,9 +40,10 @@ pip install -r requirements.txt
 
 ### Data Repo
 
-The data repository is available on Figshare:
+- **Corrected version (use this):** https://doi.org/10.6084/m9.figshare.33436675
+- Original version: https://doi.org/10.6084/m9.figshare.28844942
 
-https://doi.org/10.6084/m9.figshare.28844942
+The OD file in the original release was aggregated with an inconsistent set of station IDs; this has been corrected, and we thank Dr. Zhao (Beijing Normal University) for reporting the issue.
 
 
 
